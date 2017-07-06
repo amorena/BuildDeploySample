@@ -10,6 +10,7 @@ After cloning the repository, change to the root of the application and type
 
 ```
 npm install
+npm intall -g ojet-cli
 ```
 
 To build and run the application in a browser type
