@@ -7,8 +7,7 @@
     "homepage": "http://www.oraclejet.org"
   },
   "dependencies": {
-    "oraclejet": "~3.1.0",
-    "ojet-cli":  "~3.1"
+    "oraclejet": "~3.1.0"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
